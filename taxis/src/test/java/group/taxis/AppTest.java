@@ -1,4 +1,4 @@
-package test.taxis;
+package group.taxis;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

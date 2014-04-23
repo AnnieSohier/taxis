@@ -1,4 +1,4 @@
-package test.taxis;
+package group.taxis;
 
 /**
  * Hello world!
@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Appli gérée sur GitHub" );
+        System.out.println( "Hello World!" );
     }
 }
